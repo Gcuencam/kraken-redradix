@@ -1,0 +1,8 @@
+{
+  "port": 3008,
+  "domain": "redradix.local",
+  "apps": {
+    "human": "human",
+    "admin": "admin"
+  }
+}
